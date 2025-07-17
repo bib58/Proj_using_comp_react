@@ -21,7 +21,7 @@ Built using **React.js + Redux**, styled with TailwindCSS and integrated with **
 🧩 Redux (Slice, Store, Provider)  
 🧩 Routing and URL Params  
 🧩 Fetch API and Async/Await  
-🧩 Proxy for CORS handling    =
+🧩 Proxy for CORS handling 
 
 ---
 
